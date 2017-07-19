@@ -1,0 +1,109 @@
+body {
+	background: #777;					
+	width: 960px;
+	font-family: Arial;
+	font-size: 18;
+}
+
+
+header {
+	background: #ebebeb;
+	color: #777;
+	font-family: "Arial";
+	text-align: center;
+	margin:10px;
+	padding:40px;
+}
+
+
+nav  {
+	background:#ebebeb;
+	color: #777;
+	font-family: "Arial";
+	text-align: center;
+	margin: 10px;
+	padding: 40px;
+}
+
+
+div {
+	margin: 10px;
+	border: 10px;
+}
+
+section {
+	background:#ebebeb;
+	color: #777;
+	font-family: "Arial";
+	text-align:center;
+	float:left;
+	width: 495px;
+	margin-top:15px;
+	margin-right:15px;
+	margin-bottom:15px;
+}
+			
+
+article {
+	background: #777;
+	color:#ebebeb;
+	font-family: "Arial";
+	margin:10px;
+	padding:20px;
+	margin-top:15px;
+	position:relative;
+}
+
+
+h1 {
+	background:#ebebeb;
+	color:#777;
+	padding:15px;
+}
+
+p {
+	background:#ebebeb;
+	color:#777;
+	padding:15px;
+}
+			
+
+aside  {
+	display:inline-block;
+	background:#ebebeb;
+	color: #777;
+	font-family: "Arial";
+	text-align: center;
+	float: right;
+	height:301.44px;
+	width:420px;
+	margin-top:15px;
+	margin-bottom:15px;				
+}
+
+
+footer {
+	background:#ebebeb;
+	color: #777;
+	font-family: "Arial";
+	text-align:center;
+	margin: 10px;
+	padding:40px;
+	height: 10px;
+}
+
+.clearfix:after {
+	content:"";
+	display:block;
+	clear:both;
+}
+
+
+
+
+
+
+
+
+
+			
